@@ -1,7 +1,7 @@
 name: docker-example
 
 docker_env:
-  image:  example
+  image:  mlflow-docker-example
 
 entry_points:
   main:
